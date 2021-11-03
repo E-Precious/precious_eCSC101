@@ -1,0 +1,189 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.28)  3 NOV 2021 16:21
+entering extended mode
+**"./Practice 16.tex"
+(Practice 16.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
+ls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.cl
+o
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+icx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyva
+l.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+ics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.
+sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\g
+raphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\p
+dftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcap
+tion.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/caption\captio
+n.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/caption\captio
+n3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count190
+\c@continuedfloat=\count191
+)
+\c@subfigure=\count192
+\c@subtable=\count193
+)
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
+ckend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+) (Practice 16.aux)
+\openout1 = `"Practice 16.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
+pp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen148
+\scratchbox=\box51
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen149
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\PRECIOUS ESONU\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epsto
+pdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<Chicken Wings 1.jpg, id=1, 963.6pt x 542.025pt>
+File: Chicken Wings 1.jpg Graphic file (type jpg)
+<use Chicken Wings 1.jpg>
+Package pdftex.def Info: Chicken Wings 1.jpg  used on input line 10.
+(pdftex.def)             Requested size: 68.99895pt x 38.80577pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/cmr/m/n/9 (a) |Chi-nese
+ []
+
+File: Chicken Wings 1.jpg Graphic file (type jpg)
+<use Chicken Wings 1.jpg>
+Package pdftex.def Info: Chicken Wings 1.jpg  used on input line 13.
+(pdftex.def)             Requested size: 68.99895pt x 38.80577pt.
+File: Chicken Wings 1.jpg Graphic file (type jpg)
+<use Chicken Wings 1.jpg>
+Package pdftex.def Info: Chicken Wings 1.jpg  used on input line 17.
+(pdftex.def)             Requested size: 68.99895pt x 38.80577pt.
+
+Underfull \hbox (badness 1067) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/9 (c) |More paint-
+ []
+
+File: Chicken Wings 1.jpg Graphic file (type jpg)
+<use Chicken Wings 1.jpg>
+Package pdftex.def Info: Chicken Wings 1.jpg  used on input line 21.
+(pdftex.def)             Requested size: 68.99895pt x 38.80577pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\OT1/cmr/m/n/9 (d) |Chi-nese
+ []
+
+File: Chicken Wings 1.jpg Graphic file (type jpg)
+<use Chicken Wings 1.jpg>
+Package pdftex.def Info: Chicken Wings 1.jpg  used on input line 25.
+(pdftex.def)             Requested size: 172.5pt x 97.03096pt.
+[1
+
+{C:/Users/PRECIOUS ESONU/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Chic
+ken Wings 1.jpg>] (Practice 16.aux) ) 
+Here is how much of TeX's memory you used:
+ 2523 strings out of 478907
+ 44925 string characters out of 2847589
+ 341287 words of memory out of 3000000
+ 20438 multiletter control sequences out of 15000+600000
+ 403729 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,8n,77p,289b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/PRECIOUS ESONU/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/PRECIOUS ESONU/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on "Practice 16.pdf" (1 page, 124495 bytes).
+PDF statistics:
+ 17 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
